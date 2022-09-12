@@ -6,6 +6,7 @@
 # <span id='index1'>• Base 基础</span>  
 [11W 以太坊 ethereum truffle : 开发智能合约](https://github.com/565ee/truffle_cn/blob/main/doc/11W%20%E4%BB%A5%E5%A4%AA%E5%9D%8A%20ethereum%20truffle%20:%20%E5%BC%80%E5%8F%91%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6.md)          
 [11Y 以太坊 ethereum truffle : 部署智能合约并与之交互](https://github.com/565ee/truffle_cn/edit/main/doc/11Y%20%E4%BB%A5%E5%A4%AA%E5%9D%8A%20ethereum%20truffle%20:%20%E9%83%A8%E7%BD%B2%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%B9%B6%E4%B8%8E%E4%B9%8B%E4%BA%A4%E4%BA%92.md)          
+[120 以太坊 ethereum truffle : 编写自动化智能合约测试](https://github.com/565ee/truffle_cn/edit/main/doc/120%20%E4%BB%A5%E5%A4%AA%E5%9D%8A%20ethereum%20truffle%20:%20%E7%BC%96%E5%86%99%E8%87%AA%E5%8A%A8%E5%8C%96%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E6%B5%8B%E8%AF%95.md)          
 
 # <span id='index2'>• Middle 中级</span>  
 
